@@ -12,7 +12,6 @@ The Movie Recommendation App is a simple web-based application that allows users
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
