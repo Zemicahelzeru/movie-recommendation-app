@@ -22,7 +22,7 @@ The Movie Recommendation App is a simple web-based application that allows users
 
 ## Demo
 
-You can check the live demo of the project [here](https://rabumaabraham.github.io/movie-recommendation-app/)
+Since the app requires a personal API key from TMDB, a live demo is not available. Please follow the installation steps to run the project locally. [!demo](https://rabumaabraham.github.io/movie-recommendation-app/)
 
 ## Technologies Used
 
