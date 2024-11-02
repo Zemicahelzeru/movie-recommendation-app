@@ -45,9 +45,22 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
     cd Movie Recommendation App
     ```
 
-3. **Open the project**:
+3. **Create a config.js file:
 
-    You can directly open `index.html` in your browser, or use a live server to run it.
+Inside the project, create a folder named js if it doesn't already exist.
+Within the js folder, create a file called config.js.
+
+4. **Get your API Key:
+   Visit the ![TMDB](https://www.themoviedb.org/) website.
+   Create an account if you haven't done so.
+   Go to the API section, generate an API key, and copy it.
+
+5. Configure the API Key in config.js:
+   Open config.js and add the following code, replacing "your_api_key_here" with your actual API key:
+   const API_KEY = "your_api_key_here";
+
+6. Open the project:
+   Use a live server to run the project for the best experience.
 
 ## Usage
 
@@ -55,6 +68,7 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
 2. Select a genre to see related recommendations.
 3. Use the search bar to find specific movies.
 4. Click on a movie to view details, ratings, and manage favorites.
+
 
 ## Screenshots
 
