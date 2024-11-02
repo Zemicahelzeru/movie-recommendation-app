@@ -59,7 +59,7 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
 
 6. **Configure the API Key in config.js**:
 
-   Open config.js and add the following code, replacing [here]("your_api_key_here") with your actual API key:
+   Open config.js and add the following code, replacing [your_api_key_here]("your_api_key_here") with your actual API key:
 
    const API_KEY = "your_api_key_here";
 
