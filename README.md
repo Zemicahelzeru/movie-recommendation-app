@@ -49,11 +49,15 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
 
  
 4. **Get your API Key**:
+
    Visit the ![TMDB](https://www.themoviedb.org/) website.
+
    Create an account if you haven't done so.
+
    Go to the API section, generate an API key, and copy it.
 
-5. **Configure the API Key in config.js**:
+
+6. **Configure the API Key in config.js**:
 
    Open config.js and add the following code, replacing "your_api_key_here" with your actual API key:
 
