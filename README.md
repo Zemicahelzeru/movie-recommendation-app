@@ -50,7 +50,7 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
  
 4. **Get your API Key**:
 
-   Visit the ![TMDB](https://www.themoviedb.org/) website.
+   Visit the [TMDB](https://www.themoviedb.org/) website.
 
    Create an account if you haven't done so.
 
