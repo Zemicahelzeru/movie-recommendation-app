@@ -46,7 +46,9 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
     ```
 
 3. **Create a config.js file**:
+
    Inside the project, create a folder named js if it doesn't already exist.
+
    Within the js folder, create a file called config.js.
 
 5. **Get your API Key**:
