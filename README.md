@@ -45,12 +45,9 @@ You can check the live demo of the project [here](https://rabumaabraham.github.i
     cd Movie Recommendation App
     ```
 
-3. **Create a config.js file**:
+3. **Create a config.js file inside js folder**:
 
-   Inside the project, create a folder named js if it doesn't already exist.
-
-   Within the js folder, create a file called config.js.
-
+ 
 4. **Get your API Key**:
    Visit the ![TMDB](https://www.themoviedb.org/) website.
    Create an account if you haven't done so.
